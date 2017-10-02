@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<web-app xmlns:web="http://xmlns.jcp.or/xml/ns/javaee">
+    <dispaly-name>jspExample</dispaly-name>
+    <session-config>
+        <session-timeout>120</session-timeout>
+    </session-config>
+
+
+</web-app>
+
